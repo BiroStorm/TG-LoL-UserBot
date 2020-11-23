@@ -13,15 +13,15 @@ Check the current Free Champion Rotation
 - [ ] Update /start command information
 - [ ] Add new command to Check Riot Server Status
 - [ ] Implement the following Location:
- - [ ] BR
- - [ ] EUN
- - [ ] JP
- - [ ] KR
- - [ ] LA1
- - [ ] LA2
- - [ ] OC
- - [ ] RU
- - [ ] TR
+  - [ ] BR
+  - [ ] EUN
+  - [ ] JP
+  - [ ] KR
+  - [ ] LA1
+  - [ ] LA2
+  - [ ] OC
+  - [ ] RU
+  - [ ] TR
 - [ ] Implement command for Free Rotation Champions
 
 ### Advance
